@@ -1,1 +1,1 @@
-Hello, you beautiful people
+This is just a super simple calculator written in C
